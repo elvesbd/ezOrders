@@ -3,12 +3,10 @@
 <span align="center">
 <img src="ezImage.png"/></span>
 
----
 
 ## 📝 Sobre
 Aplicação para cadastro de pedidos, onde além de ser cadastrado o pedido também é possivel a alteração do status do pedido em tempo real tanto na aplicação web como na mobile.
 
----
 
 ## 💻 Tecnologias
 - [React](https://pt-br.reactjs.org/)
@@ -17,7 +15,6 @@ Aplicação para cadastro de pedidos, onde além de ser cadastrado o pedido tamb
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [NodeJs](https://nodejs.org/)
 
----
 
 ### Autor
 
@@ -27,7 +24,6 @@ Aplicação para cadastro de pedidos, onde além de ser cadastrado o pedido tamb
 
 [![Linkedin Badge](https://img.shields.io/badge/-Elves-blue?style=flat-square&logo=Linkedin&logoColor=White&link=https://www.linkedin.com/in/elvesbd/)](https://www.linkedin.com/in/elvesbd/)
 
----
 
 ## ©️ Licença
 Esse projeto está sob a licença MIT. verifique a página **LICENCE** para mais detalhes.
