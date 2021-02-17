@@ -14,6 +14,7 @@ Aplicação para cadastro de pedidos, onde além de ser cadastrado o pedido tamb
 - [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [NodeJs](https://nodejs.org/)
+- [Docker](https://www.docker.com/)
 
 
 ### Autor
