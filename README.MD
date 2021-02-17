@@ -1,7 +1,7 @@
 <h1 align="center">ezOrders</h1>
 
 <span align="center">
-<img src="ezImage1.png"/></span>
+<img src="ezImage.png"/></span>
 
 
 ## 📝 Sobre
